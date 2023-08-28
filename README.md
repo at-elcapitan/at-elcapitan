@@ -21,7 +21,7 @@ SYSTEM CALL
 ![Static Badge](https://img.shields.io/badge/Language-C-lightgray)
 ```c
 #include <stdbool.h>
-#include <atelcapitan/about.h>
+#include "atelcapitan/about.h"
 #define MAX 1024
 
 typedef struct baseInfo {
