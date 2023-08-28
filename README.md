@@ -30,7 +30,7 @@ typedef struct baseInfo {
   char languages[MAX][MAX];
   char technologies[MAX][MAX];
   char learning[MAX][MAX];
-  char operatingSystems [MAX][MAX];
+  char operatingSystems[MAX][MAX];
 } baseInfo_t;
 
 int main() {
@@ -54,7 +54,7 @@ Greetings. As you have already understood, I am Vladislav, a beginning software 
 
 ## ⛳ My hobbies
 - Watching Anime and reading Ranobae
-- I'm in love with SAO, so I like rewatching it
+- Rewatching SAO (:D)
 - Playing Diabloids, GTA and MMORPGs
 - Coding and gain skills
 - Digging deeper into how computers work
