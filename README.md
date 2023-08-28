@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/Language-Underword%20System%20Commands-gold)
 
-<img width="250" src="https://github.com/at-elcapitan/at-elcapitan/assets/96237569/b64c8e2f-ebfe-4160-bd15-455ef590733b" align="right">
+<img height="250" src="https://github.com/at-elcapitan/at-elcapitan/assets/96237569/b64c8e2f-ebfe-4160-bd15-455ef590733b" align="right">
 
 ```
 SYSTEM CALL
