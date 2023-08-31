@@ -1,4 +1,4 @@
-###### "Мы всех своих действий сумма", - Alek OS
+###### "Мы всех своих действий сумма, спасение внутри", - Alek OS
 
 ![Static Badge](https://img.shields.io/badge/Language-Underword%20System%20Commands-gold)
 
