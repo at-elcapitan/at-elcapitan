@@ -9,7 +9,7 @@ SYSTEM CALL
   CONNECT atelcapitan
   SEARCH recollection_info
   EXTRACT core_image
-  CONNECT resourse
+  CONNECT resource
   
   USE primaryInformation
   APPEND c_code FROM elcapitaninfo/information.c
@@ -58,9 +58,9 @@ Greetings. As you have already understood, I am Vladislav, a beginning software 
 - Watching Anime and reading Ranobae
 - Rewatching SAO (:D)
 - Playing Diabloids, GTA and MMORPGs
-- Coding and gain skills
+- Coding and gaining skills
 - Digging deeper into how computers work
 
-## 🌍 Philosophy
-- Unix: Avoid captive user interfaces
-- Theodore Roosevelt: Do what you can, with what you have, where you are.
+## 🌍 Contact
+If you want to contact me (who even has to haha), there is my discord `ElCapitan#4242`
+
