@@ -39,9 +39,9 @@ int main() {
     baseInfo_t mainstruc = {
         "Vladislav Nazarov",
         "Beginner",
-        {"Python", "Java"},
+        {"Python", "Java", "C"},
         {"Flask"},
-        {"Web development with Django", "Coding with C", "Coding with FASM"},
+        {"Web development with Django", "Coding with FASM"},
         {"GNU/Linux Arch", "GNU/Linux Gentoo"}
     };
     
