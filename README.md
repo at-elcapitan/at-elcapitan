@@ -39,7 +39,7 @@ int main() {
     baseInfo_t mainstruc = {
         "Vladislav Nazarov",
         "Beginner",
-        {"Python", "Java", "C"},
+        {"Python", "Java", "C++", "C"},
         {"Flask"},
         {"Web development with Django", "Coding with FASM"},
         {"GNU/Linux Arch", "GNU/Linux Gentoo"}
@@ -60,9 +60,6 @@ Greetings. As you have already understood, I am Vladislav, a beginning software 
 - Playing Diabloids, GTA and MMORPGs
 - Coding and gaining skills
 - Digging deeper into how computers work
-
-## Goals
-- Monthly Programming Marathon (09.01.2023 - 10.01.2023)
 
 ## 🌍 Contact
 If you want to contact me (who even has to haha), there is my discord `ElCapitan#4242`
