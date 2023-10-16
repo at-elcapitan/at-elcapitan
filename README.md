@@ -60,7 +60,3 @@ Greetings. As you have already understood, I am Vladislav, a beginning software 
 - Playing Diabloids, GTA and MMORPGs
 - Coding and gaining skills
 - Digging deeper into how computers work
-
-## 🌍 Contact
-If you want to contact me (who even has to haha), there is my discord `ElCapitan#4242`
-
