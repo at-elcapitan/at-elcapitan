@@ -6,12 +6,13 @@
 
 ```
 SYSTEM CALL
+  CONNECT armament
   CONNECT atelcapitan
   SEARCH recollection_info
   EXTRACT core_image
   CONNECT resource
   
-  USE primaryInformation
+  USE primary_information
   APPEND c_code FROM elcapitaninfo/information.c
   MATERIALIZE main_window
   
