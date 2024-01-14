@@ -42,7 +42,7 @@ int main() {
         "C/ASM FAN",
         {"Python", "Java", "C++", "C"},
         {"Flask"},
-        {"Web development with Django", "Coding with FASM"},
+        {"Intel *ASM Development"},
         {"GNU/Linux Arch", "GNU/Linux Gentoo"}
     };
     
