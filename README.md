@@ -39,7 +39,7 @@ typedef struct baseInfo {
 int main() {
     baseInfo_t mainstruc = {
         "Vladislav Nazarov",
-        "Beginner",
+        "C/ASM FAN",
         {"Python", "Java", "C++", "C"},
         {"Flask"},
         {"Web development with Django", "Coding with FASM"},
