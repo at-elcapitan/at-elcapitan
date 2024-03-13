@@ -39,8 +39,8 @@ typedef struct baseInfo {
 int main() {
     baseInfo_t mainstruc = {
         "Vladislav Nazarov",
-        "C/ASM FAN",
-        {"Python", "Java", "C++", "C"},
+        "C Ideologist",
+        {"Python", "C++", "C", "NASM"},
         {"Flask"},
         {"Intel *ASM Development"},
         {"GNU/Linux Arch", "GNU/Linux Gentoo"}
@@ -56,8 +56,11 @@ int main() {
 Greetings. As you have already understood, I am Vladislav, a beginning software developer. I have been programming for 5 years, but actively for the last 3 years. I am interested in the topic of AI and in the future, I want to become one of the AGI developers.
 
 ## ⛳ My hobbies
+- Listening Ado-sama songs
 - Watching Anime and reading Ranobae
 - Rewatching SAO (:D)
 - Playing Diabloids, GTA and MMORPGs
 - Coding and gaining skills
 - Digging deeper into how computers work
+
+### World ADO Domiation!
