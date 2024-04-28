@@ -42,7 +42,7 @@ int main() {
         "C Ideologist",
         {"Python", "C++", "C", "NASM"},
         {"Flask"},
-        {"Intel *ASM Development"},
+        {"Intel *ASM Development", "COBOL", "Dylan"},
         {"GNU/Linux Arch", "GNU/Linux Gentoo"}
     };
     
