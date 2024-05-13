@@ -40,7 +40,10 @@ int main() {
     baseInfo_t mainstruc = {
         "Vladislav Nazarov",
         "C Ideologist",
-        {"Python", "C++", "C", "NASM"},
+        {
+            "Python", "C++", "C", "NASM",
+            "Fortran"
+        },
         {"Flask"},
         {"NASM", "COBOL", "Dylan"},
         {"GNU/Linux Arch", "GNU/Linux Gentoo"}
