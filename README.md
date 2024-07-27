@@ -41,11 +41,10 @@ int main() {
         "Vladislav Nazarov",
         "C Ideologist",
         {
-            "Python", "C++", "C", "NASM",
-            "Fortran"
+            "C", "NASM", "Rust"
         },
         {"Flask"},
-        {"NASM", "COBOL", "Dylan"},
+        {"NASM", "COBOL", "Dylan", "Rust"},
         {"GNU/Linux Arch", "GNU/Linux Gentoo"}
     };
     
