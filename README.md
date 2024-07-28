@@ -65,4 +65,8 @@ Greetings. As you have already understood, I am Vladislav, a beginning software 
 - Coding and gaining skills
 - Digging deeper into how computers work
 
+## Contact
+
+E-mail: <work.elcapitan@gmail.com>
+
 ### World ADO Domiation!
