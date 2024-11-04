@@ -72,4 +72,6 @@ Greetings. As you have already understood, I am Vladislav, a beginning software 
 
 E-mail: <work.elcapitan@gmail.com>
 
+<img width="200" src="https://media.tenor.com/yIX_27rQAIkAAAAM/ado-ado-cute.gif">
+
 ### World ADO Domiation!
