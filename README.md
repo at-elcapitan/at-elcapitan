@@ -74,5 +74,5 @@ E-mail: <work.elcapitan@gmail.com>
 
 <img width="200" src="https://media.tenor.com/yIX_27rQAIkAAAAM/ado-ado-cute.gif">
 
-### World ADO Domiation!
-### World Yoshino Niku Domiation!
+### World [ADO](https://x.com/ado1024imokenp) Domiation!
+### World [Yoshino](https://x.com/yoshino_msc) Domiation!
