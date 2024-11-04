@@ -42,13 +42,13 @@ typedef struct baseInfo {
 int main() {
     baseInfo_t mainstruc = {
         "Vladislav Nazarov",
-        "C Ideologist",
+        "Don't call me Shirley",
         {
-            "C", "NASM", "Rust"
+            "C", "NASM", "Python", "Lua"
         },
         {"Flask"},
-        {"NASM", "COBOL", "Dylan", "Rust"},
-        {"GNU/Linux Arch", "GNU/Linux Gentoo"}
+        {"Common Lisp", "FORTRAN"},
+        {"GNU/Linux Arch"}
     };
     
     displayAboutMe(&mainstruc);
