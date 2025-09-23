@@ -24,49 +24,50 @@ SYSTEM CALL
 
 <span style="color:green"> </span>
 
-![Static Badge](https://img.shields.io/badge/Language-C-lightgray)
-```c
-#include <stdbool.h>
-#include "atelcapitan/about.h"
-#define MAX 1024
+![Static Badge](https://img.shields.io/badge/Language-Netwide%20Assebmler-darkgreen)
+```nasm
+  extern printf
+  global main
+  use32
 
-typedef struct baseInfo {
-  char name[MAX];
-  char developerType[MAX];
-  char languages[MAX][MAX];
-  char technologies[MAX][MAX];
-  char learning[MAX][MAX];
-  char operatingSystems[MAX][MAX];
-} baseInfo_t;
+section .data
+  fmt db `Name: %s\nProgramming Languages: %s\nFrameworks: %s\nOS: %s`, 0xA, 0
 
-int main() {
-    baseInfo_t mainstruc = {
-        "Vladislav Nazarov",
-        "Don't call me Shirley",
-        {
-            "C", "NASM", "Python", "Lua"
-        },
-        {"Flask"},
-        {"Common Lisp", "FORTRAN"},
-        {"GNU/Linux Arch"}
-    };
-    
-    displayAboutMe(&mainstruc);
-    return 0;
-}
+  name db        `ElCapitan, John`, 0
+  progLangs db   `NASM, C, Python, JS`, 0
+  frameworks db  `Flask, FastAPI`, 0
+  os db          `Arch Linux`, 0
+
+section .text
+
+main: 
+  ; pushing arguments to the stack
+  push os
+  push frameworks
+  push progLangs
+  push name
+  push fmt
+  
+  call printf
+
+  ; clearing the stack
+  add esp, 20
+
+  ; ok, return code is 0, exiting
+  xor eax, eax
+  ret
 ```
 
-## ‍💻 Yeah, programmer. Again...
+## ‍💻 The Programmer™
 <img width="400" src="https://github.com/at-elcapitan/at-elcapitan/blob/4123a794c373f26ba0674228fff64471a51af4ec/alice.gif" align="right"/>
-Greetings. As you have already understood, I am Vladislav, a beginning software developer. I have been programming for 5 years, but actively for the last 3 years. I am interested in the topic of AI and in the future, I want to become one of the AGI developers.
+Greetings. As you have already understood, I am Vladislav/John, a beginning software developer. I have been programming for 5 years, but actively for the last 3 years. I am interested in the topic of AI and in the future, I want to become one of the AGI developers.
 
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=at-elcapitan&theme=dark&show_icons=true&hide_border=true&layout=compact'/>
 
 ## ⛳ My hobbies
-- Listening Ado-sama songs
+- Listening Ado-san's songs
 - Watching Anime and reading Ranobae
-- Rewatching SAO (:D)
-- Playing Diabloids, GTA and MMORPGs
+- Playing games
 - Coding and gaining skills
 - Digging deeper into how computers work
 
