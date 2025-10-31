@@ -1,4 +1,4 @@
-# I am: Guitarist, Developer, ElCapitan
+# Guitarist, Developer, ElCapitan
 
 ![Static Badge](https://img.shields.io/badge/Language-Underworld%20System%20Commands-gold)
 
