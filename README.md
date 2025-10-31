@@ -31,8 +31,8 @@ section .data
   fmt db `Name: %s\nProgramming Languages: %s\nFrameworks: %s\nOS: %s`, 0xA, 0
 
   name db        `ElCapitan, John`, 0
-  progLangs db   `NASM, C, Python, JS`, 0
-  frameworks db  `Flask, FastAPI`, 0
+  progLangs db   `NASM, C, Python, TypeScript`, 0
+  frameworks db  `Flask, FastAPI, SQLAlchemy, Vue.js`, 0
   os db          `Arch Linux`, 0
 
 section .text
