@@ -57,22 +57,18 @@ main:
 
 ## ‍💻 The Programmer™
 <img width="400" src="https://github.com/at-elcapitan/at-elcapitan/blob/4123a794c373f26ba0674228fff64471a51af4ec/alice.gif" align="right"/>
-Greetings. As you have already understood, I am Vladislav/John, a beginning software developer. I have been programming for 5 years, but actively for the last 3 years. I am interested in the topic of AI and in the future, I want to become one of the AGI developers.
-
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=at-elcapitan&theme=dark&show_icons=true&hide_border=true&layout=compact'/>
+Greetings. As you have already understood, I am Vladislav/John, a software developer. I have been programming for more than 5 years, but actively for the last 3 years. I am interested in the topic of AI and in the future, I want to become one of the AGI developers.
 
 ## ⛳ My hobbies
-- Listening Ado-san's songs
 - Watching Anime and reading Ranobae
 - Playing games
 - Coding and gaining skills
 - Digging deeper into how computers work
+- Um.. Also.. Yeah, [#RussiaFuckedUp](https://music.youtube.com/watch?v=XvxELVB9AO0)
 
 ## Contact
 
 E-mail: <elcapitan@atproject.com.ua>
-
-<img width="200" src="https://media.tenor.com/yIX_27rQAIkAAAAM/ado-ado-cute.gif">
 
 ### World [ADO](https://x.com/ado1024imokenp) Domiation!
 ### World [Yoshino](https://x.com/yoshino_msc) Domiation!
