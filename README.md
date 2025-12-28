@@ -21,7 +21,7 @@ SYSTEM CALL
 
 <span style="color:green"> </span>
 
-![Static Badge](https://img.shields.io/badge/Language-Netwide%20Assebmler-darkgreen)
+![Static Badge](https://img.shields.io/badge/Language-NASM%20[ELF32]-darkgreen)
 ```nasm
   extern printf
   global main
