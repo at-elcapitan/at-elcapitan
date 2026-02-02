@@ -55,11 +55,13 @@ main:
   ret
 ```
 
-## ‍💻 The Programmer™
+### ‍💻 The Programmer™
+
 <img width="400" src="https://github.com/at-elcapitan/at-elcapitan/blob/4123a794c373f26ba0674228fff64471a51af4ec/alice.gif" align="right"/>
+
 Greetings. As you have already understood, I am Vladislav/John, a software developer. I have been programming for more than 5 years, but actively for the last 3 years. I am interested in the topic of AI and in the future, I want to become one of the AGI developers.
 
-## ⛳ My hobbies
+### ⛳ My hobbies
 - Watching Anime and reading Ranobae
 - Playing games
 - Coding and gaining skills
