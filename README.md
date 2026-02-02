@@ -66,7 +66,7 @@ Greetings. As you have already understood, I am Vladislav/John, a software devel
 - Playing games
 - Coding and gaining skills
 - Digging deeper into how computers work
-- Um.. Also.. Yeah, [#RussiaFuckedUp](https://music.youtube.com/watch?v=XvxELVB9AO0)
+- Also, [#RussiaFuckedUp](https://music.youtube.com/watch?v=XvxELVB9AO0)
 
 ## Contact
 
