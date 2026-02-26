@@ -57,20 +57,17 @@ main:
 
 ### ‍💻 The Programmer™
 
-<img width="400" src="https://github.com/at-elcapitan/at-elcapitan/blob/4123a794c373f26ba0674228fff64471a51af4ec/alice.gif" align="right"/>
-
-Greetings. As you have already understood, I am Vladislav/John, a software developer. I have been programming for more than 5 years, but actively for the last 3 years. I am interested in the topic of AI and in the future, I want to become one of the AGI developers.
+Greetings. I'm Vladislav (also John, whatever) a software developer. Formerly worked with C, but currently (and sadly) aimed at Python, TypeScript and their frameworks. Making dynamic Single-page Applications with Vue.js and backend with FastAPI. More information at my site https://elcapitan.atproject.com.ua or my projects.
 
 ### ⛳ My hobbies
-- Watching Anime and reading Ranobae
+- Watching Anime
+- Reading books (especially ranobae)
 - Playing games
 - Coding and gaining skills
 - Digging deeper into how computers work
-- Also, [#RussiaFuckedUp](https://music.youtube.com/watch?v=XvxELVB9AO0)
+- Creating various visual interfaces
+- Exploring the universe
 
 ## Contact
 
 E-mail: <elcapitan@atproject.com.ua>
-
-### World [ADO](https://x.com/ado1024imokenp) Domiation!
-### World [Yoshino](https://x.com/yoshino_msc) Domiation!
